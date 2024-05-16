@@ -1,0 +1,274 @@
+{
+    "products": [
+      {
+        "id": 10001,
+        "name": "Technical Analysis Training",
+        "overview": "In this course, you will learn how to read between the lines with the help of trends, volumes, various candlestick strategies, helpful technical indicators, and much more.",
+        "long_description": "I am sure you might have come across jargons like NIFTY, SENSEX, MCap, Short selling, IPO and so many more. These concepts seem scary but are actually very easy to understand if they are taught in a practical manner with loads of examples. This course contains 60+ concepts that are helpful for beginners and it is also useful for learners from a non-finance background.",
+        "price": 2900,
+        "poster": "https://plus.unsplash.com/premium_photo-1664476845274-27c2dabdd7f0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_local": "assets/images/stockcourse1.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 5,
+        "best_seller": true
+      },
+      {
+        "id": 10002,
+        "name": "Fundamental Analysis + Technical Analysis",
+        "overview": "After successfully completing this course, you will be in a position to make an informed decision regarding “Stock Selection.",
+        "price": 3200,
+        "poster": "https://plus.unsplash.com/premium_photo-1661374973083-a0a4c6f15bc0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_local": "assets/images/stockcourse1.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 2,
+        "best_seller": false
+      },
+      {
+        "id": 10003,
+        "name": "Company Analysis",
+        "overview": "Learning the impact of the economy and politics on the overall stock market is fascinating, but guess what? It does not stop there. Can you imagine a single decision of the Management, a single notification of the Government, a single Press release from RBI, or single geopolitical news that can turn the fortunes of the company?",
+        "long_description": " Hop on! to experience this amazing world of Company Analysis in the simplest possible way with me.",
+        "price": 2999,
+        "poster": "https://plus.unsplash.com/premium_photo-1661611263128-ffb51eca570f?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_local": "",
+        "rating": 3,
+        "in_stock": true,
+        "size": 1,
+        "best_seller": false
+      },
+      {
+        "id": 10004,
+        "name": "Demystifying Stock Market Essentials",
+        "overview": "Dive into the world of finance with this comprehensive course covering key concepts such as NIFTY, SENSEX, MCap, Short selling, IPO, and more. Designed for beginners and those from non-finance backgrounds, this course offers practical explanations and abundant examples to make complex concepts easily understandable.",
+        "price": 2999,
+        "poster": "https://plus.unsplash.com/premium_photo-1696942353136-c3735fadc15a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_local": "assets/images/stock4.jpg",
+        "rating": 5,
+        "in_stock": true,
+        "size": 7,
+        "best_seller": true
+      },
+      {
+        "id": 10005,
+        "name": "Futures and Options + Art of value Investing",
+        "overview": "Futures and options are complex financial instruments created for the purpose of hedging, speculation, and arbitration. In this course, you will learn. The concepts regarding Futures & Options from square one. How to use these complex financial instruments, to protect your capital and how to earn through trading, by making easily executable options strategies.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 8999,
+        "poster": "https://images.unsplash.com/photo-1468254095679-bbcba94a7066?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_local": "",
+        "rating": 3,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": false
+      },
+      {
+        "id": 10006,
+        "name": "Mastering Stock Market Fundamentals",
+        "overview": "Explore the fundamentals of the stock market in-depth,  indices like NIFTY and SENSEX to grasping concepts like market capitalization (MCap), short selling, and initial public offerings (IPOs). ",
+        "price": 999,
+        "poster": "https://images.unsplash.com/photo-1640451859877-1374a1155215?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_local": "assets/images/stock1.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 10,
+        "best_seller": false
+      },
+      {
+        "id": 10007,
+        "name": "Futures and Options ",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 99,
+        "poster": "https://plus.unsplash.com/premium_photo-1661725369804-898807815b52?q=80&w=2758&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rating": 5,
+        "in_stock": true,
+        "size": 2,
+        "best_seller": false
+      },
+      {
+        "id": 10008,
+        "name": "Navigating Financial Markets: A Beginner's Guide",
+        "overview": "Embark on your journey through the financial markets with this beginner-friendly course. Learn about important concepts such as NIFTY, SENSEX, MCap, short selling, and IPOs in a structured and accessible manner. ",
+        "price": 2499,
+        "poster": "https://media.istockphoto.com/id/1304628896/photo/silhouette-form-of-bull-on-technical-financial-graph.webp?b=1&s=170667a&w=0&k=20&c=Af5XgDGFLm2wEMSHx154mMh8x-6Jhf7Jqt20yqRJdME=",
+        "image_local": "assets/images/stock1.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": true
+      },
+      {
+        "id": 10009,
+        "name": "Technical Analysis Training",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 29,
+        "poster": "https://plus.unsplash.com/premium_photo-1664299056526-5a5df9c73c59?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_local": "",
+        "in_stock": true,
+        "size": 3,
+        "best_seller": false
+      },
+      {
+        "id": 10010,
+        "name": "Technical Analysis Training",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 19,
+        "poster": "https://plus.unsplash.com/premium_photo-1664299056526-5a5df9c73c59?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_local": "",
+        "rating": 4,
+        "in_stock": true,
+        "size": 1,
+        "best_seller": false
+      },
+      {
+        "id": 10011,
+        "name": "Technical Analysis Training",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 29,
+        "poster": "https://plus.unsplash.com/premium_photo-1661611260273-4312872f53da?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MHx8MHx8fDA%3D",
+        "image_local": "",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": true
+      },
+      {
+        "id": 10012,
+        "name": "Technical Analysis Training",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 9,
+        "poster": "https://plus.unsplash.com/premium_photo-1661782698203-bc7aed600b0b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTN8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MHx8MHx8fDA%3D",
+        "image_local": "",
+        "rating": 5,
+        "in_stock": true,
+        "size": 1,
+        "best_seller": false}
+        ,
+        {
+            "id": 10013,
+            "name": "Demystifying Stock Market Essentials",
+            "overview": "Dive into the world of finance with this comprehensive course covering key concepts such as NIFTY, SENSEX, MCap, Short selling, IPO, and more. Designed for beginners and those from non-finance backgrounds, this course offers practical explanations and abundant examples to make complex concepts easily understandable.",
+            "price": 2999,
+            "poster": "https://plus.unsplash.com/premium_photo-1696942353136-c3735fadc15a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "image_local": "assets/images/stock4.jpg",
+            "rating": 5,
+            "in_stock": true,
+            "size": 7,
+            "best_seller": true
+          },
+          {
+            "id": 10014,
+            "name": "Mastering Stock Market Fundamentals",
+            "overview": "Explore the fundamentals of the stock market in-depth,  indices like NIFTY and SENSEX to grasping concepts like market capitalization (MCap), short selling, and initial public offerings (IPOs). ",
+            "price": 999,
+            "poster": "https://images.unsplash.com/photo-1640451859877-1374a1155215?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "image_local": "assets/images/stock1.avif",
+            "rating": 5,
+            "in_stock": true,
+            "size": 10,
+            "best_seller": false
+          },
+          {
+            "id": 10015,
+            "name": "Navigating Financial Markets: A Beginner's Guide",
+            "overview": "Embark on your journey through the financial markets with this beginner-friendly course. Learn about important concepts such as NIFTY, SENSEX, MCap, short selling, and IPOs in a structured and accessible manner. ",
+            "price": 2499,
+            "poster": "https://media.istockphoto.com/id/1304628896/photo/silhouette-form-of-bull-on-technical-financial-graph.webp?b=1&s=170667a&w=0&k=20&c=Af5XgDGFLm2wEMSHx154mMh8x-6Jhf7Jqt20yqRJdME=",
+            "image_local": "assets/images/stock1.avif",
+            "rating": 5,
+            "in_stock": true,
+            "size": 3,
+            "best_seller": true
+          }
+    ],
+    "featured_products": [
+      {
+        "id": 10004,
+        "name": "Demystifying Stock Market Essentials",
+        "overview": "Dive into the world of finance with this comprehensive course covering key concepts such as NIFTY, SENSEX, MCap, Short selling, IPO, and more. Designed for beginners and those from non-finance backgrounds, this course offers practical explanations and abundant examples to make complex concepts easily understandable.",
+        "price": 2999,
+        "poster": "https://plus.unsplash.com/premium_photo-1696942353136-c3735fadc15a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_local": "assets/images/stock4.jpg",
+        "rating": 5,
+        "in_stock": true,
+        "size": 7,
+        "best_seller": true
+      },
+      {
+        "id": 10006,
+        "name": "Mastering Stock Market Fundamentals",
+        "overview": "Explore the fundamentals of the stock market in-depth,  indices like NIFTY and SENSEX to grasping concepts like market capitalization (MCap), short selling, and initial public offerings (IPOs). ",
+        "price": 999,
+        "poster": "https://images.unsplash.com/photo-1640451859877-1374a1155215?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_local": "assets/images/stock1.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 10,
+        "best_seller": false
+      },
+      {
+        "id": 10008,
+        "name": "Navigating Financial Markets: A Beginner's Guide",
+        "overview": "Embark on your journey through the financial markets with this beginner-friendly course. Learn about important concepts such as NIFTY, SENSEX, MCap, short selling, and IPOs in a structured and accessible manner. ",
+        "price": 2499,
+        "poster": "https://media.istockphoto.com/id/1304628896/photo/silhouette-form-of-bull-on-technical-financial-graph.webp?b=1&s=170667a&w=0&k=20&c=Af5XgDGFLm2wEMSHx154mMh8x-6Jhf7Jqt20yqRJdME=",
+        "image_local": "assets/images/stock1.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": true
+      }
+    ],
+    "orders": [
+      {
+        "cartList": [
+          {
+            "id": 10001,
+            "name": "Basics To Advanced In React",
+            "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+            "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+            "price": 29,
+            "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+            "image_local": "",
+            "rating": 5,
+            "in_stock": true,
+            "size": 5,
+            "best_seller": true
+          },
+          {
+            "id": 10008,
+            "name": "JavaScript Basics To Advance With Shubham",
+            "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+            "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+            "price": 29,
+            "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+            "image_local": "",
+            "rating": 5,
+            "in_stock": true,
+            "size": 3,
+            "best_seller": true
+          }
+        ],
+        "amount_paid": 58,
+        "quantity": 2,
+        "user": {
+          "name": "Shahil Kataria",
+          "email": "shahilkataria852002@gmail.com",
+          "id": 1
+        },
+        "id": 1
+      }
+    ],
+    "users": [
+      
+      
+    ]
+
+   
+  }
